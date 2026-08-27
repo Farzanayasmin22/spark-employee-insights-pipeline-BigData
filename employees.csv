@@ -1,0 +1,1531 @@
+emp_id,department,salary,age,city,status,years_experience
+1,HR,65479.1,31,Mumbai,Active,26
+2,Sales,88429.47,24,Chennai,Inactive,2
+3,Finance,95681.71,36,Kochi,Active,18
+4,Marketing,94583.11,30,Chennai,Active,17
+5,Finance,47590.8,58,Delhi,Inactive,3
+6,HR,50744.84,56,Bangalore,Inactive,18
+7,Sales,47470.84,37,Kochi,Inactive,16
+8,Sales,101119.88,26,Kochi,Inactive,5
+9,Support,29900.91,26,Kochi,Inactive,10
+10,Marketing,82025.67,27,Chennai,On Leave,21
+11,Marketing,,50,Chennai,On Leave,11
+12,Engineering,39636.97,25,Bangalore,Active,23
+13,HR,35072.66,50,Kochi,Inactive,28
+14,Finance,113299.59,44,Chennai,Active,4
+15,Marketing,26507.88,33,Bangalore,Active,4
+16,Support,144137.24,54,Mumbai,Inactive,28
+17,HR,94908.97,47,Chennai,Active,15
+18,Sales,51095.4,32,Bangalore,On Leave,1
+19,Sales,143618.59,23,Delhi,On Leave,12
+20,Sales,70520.43,29,Chennai,Inactive,15
+21,HR,67829.48,38,Delhi,On Leave,0
+22,Support,111258.45,23,Bangalore,On Leave,27
+23,Engineering,138532.32,44,Kochi,On Leave,24
+24,Engineering,123549.91,34,Chennai,On Leave,25
+25,Marketing,28622.52,23,Chennai,Inactive,6
+26,Marketing,142127.65,44,Mumbai,Active,3
+27,HR,103008.3,22,Bangalore,On Leave,2
+28,HR,113936.62,34,Delhi,Inactive,25
+29,HR,115228.09,51,Mumbai,On Leave,5
+30,Support,138106.51,31,Kochi,Inactive,21
+31,Support,27674.58,28,Delhi,Inactive,27
+32,Engineering,51597.47,54,Kochi,Inactive,8
+33,Finance,117490.26,51,Kochi,On Leave,13
+34,Sales,,54,Chennai,Active,19
+35,Support,84186.62,29,Mumbai,Inactive,21
+36,Sales,,57,Delhi,Active,8
+37,HR,28483.22,26,Bangalore,On Leave,16
+38,Support,88519.52,52,Delhi,On Leave,16
+39,HR,94939.23,34,Delhi,Inactive,3
+40,Finance,78542.33,35,Bangalore,Active,28
+41,Engineering,70772.91,38,Chennai,Active,23
+42,Engineering,148733.93,36,Chennai,On Leave,12
+43,Marketing,115268.85,23,Kochi,Inactive,14
+44,Sales,61931.76,26,Delhi,Active,2
+45,HR,58805.76,30,Bangalore,Inactive,4
+46,Sales,65881.06,39,Delhi,Inactive,28
+47,Support,125203.57,27,Delhi,Active,8
+48,Support,94133.01,39,Delhi,Active,16
+49,Engineering,57736.91,33,Bangalore,On Leave,9
+50,Marketing,,39,Mumbai,Inactive,1
+51,Engineering,48682.06,52,Chennai,Active,21
+52,Support,129326.74,47,Bangalore,On Leave,6
+53,HR,113340.68,30,Bangalore,Active,26
+54,Sales,56949.23,32,Mumbai,On Leave,26
+55,Sales,99847.3,40,,Active,5
+56,Marketing,66115.77,57,Delhi,Active,30
+57,,66916.6,27,Bangalore,On Leave,20
+58,Engineering,58021.09,27,Chennai,On Leave,1
+59,Engineering,35560.34,55,Kochi,Inactive,24
+60,Sales,115519.47,31,Kochi,On Leave,13
+61,Support,90469.66,54,Mumbai,On Leave,18
+62,Sales,105361.22,27,Mumbai,Active,20
+63,Finance,94815.91,23,,On Leave,7
+64,Support,118533.17,54,Mumbai,On Leave,16
+65,Engineering,34306.25,38,Delhi,Active,23
+66,Sales,34592.48,40,Kochi,On Leave,20
+67,Support,106441.8,41,Kochi,Active,0
+68,Finance,37439.88,35,Chennai,Inactive,22
+69,Engineering,39812.86,57,Bangalore,Active,29
+70,Marketing,88327.31,50,Chennai,Active,29
+71,Marketing,42717.58,55,Bangalore,Active,19
+72,HR,112917.13,36,Chennai,Inactive,0
+73,HR,75677.42,31,Bangalore,Inactive,10
+74,Sales,67284.08,47,Delhi,On Leave,0
+75,Marketing,,26,Chennai,Inactive,27
+76,Engineering,60702.9,31,Bangalore,Inactive,16
+77,Finance,78468.45,23,Chennai,On Leave,17
+78,Finance,76360.75,30,Bangalore,Inactive,1
+79,Marketing,76858.33,40,Bangalore,On Leave,23
+80,Finance,62604.54,57,Chennai,Active,5
+81,Engineering,126478.32,57,Chennai,Inactive,24
+82,Support,36339.31,43,Mumbai,Inactive,7
+83,HR,27510.22,48,Chennai,On Leave,16
+84,Marketing,87268.24,58,Delhi,On Leave,16
+85,HR,36574.77,37,Chennai,On Leave,14
+86,Sales,146005.05,30,Chennai,On Leave,24
+87,Support,25022.34,47,Chennai,Inactive,7
+88,Finance,146485.94,28,,Active,17
+89,Finance,96172.79,24,Bangalore,Active,20
+90,Marketing,39016.59,26,Kochi,On Leave,6
+91,HR,26307.7,41,Bangalore,Inactive,20
+92,HR,93375.28,23,Bangalore,Active,0
+93,Finance,35136.51,36,Chennai,Inactive,7
+94,Engineering,70289.99,47,Mumbai,Inactive,23
+95,Engineering,50051.73,34,Chennai,Active,8
+96,Engineering,86970.59,33,Chennai,Inactive,29
+97,Sales,74182.5,35,Kochi,Active,13
+98,Finance,137270.93,42,Mumbai,Active,29
+99,Sales,90599.7,51,Bangalore,On Leave,23
+100,Sales,46157.62,22,Bangalore,Active,11
+101,Marketing,,46,Bangalore,Inactive,2
+102,Marketing,139938.3,34,Bangalore,On Leave,28
+103,Sales,103176.04,47,Chennai,Active,14
+104,Marketing,118410.85,43,Bangalore,Inactive,30
+105,Marketing,111197.17,39,Mumbai,On Leave,24
+106,Sales,33166.51,36,Chennai,On Leave,30
+107,Engineering,139193.0,53,Chennai,Active,0
+108,Marketing,121601.17,37,Bangalore,Inactive,11
+109,Engineering,,32,Chennai,Active,20
+110,Sales,147531.97,28,Bangalore,On Leave,2
+111,Engineering,146514.58,33,Delhi,Inactive,14
+112,Marketing,130873.38,29,Bangalore,Inactive,18
+113,Engineering,79924.72,33,Delhi,Active,9
+114,Support,74508.7,37,Kochi,Active,20
+115,Engineering,37791.55,52,Chennai,Inactive,1
+116,Sales,100061.66,34,Bangalore,On Leave,27
+117,Sales,108094.45,22,Kochi,On Leave,19
+118,Sales,30520.82,38,Kochi,On Leave,20
+119,Engineering,76124.36,45,Kochi,Inactive,2
+120,HR,32908.88,28,Kochi,Active,20
+121,Finance,58895.86,40,Bangalore,Inactive,30
+122,Marketing,76760.0,23,Delhi,Inactive,23
+123,Sales,44570.86,29,Chennai,On Leave,28
+124,Finance,31461.93,31,Chennai,Active,18
+125,Engineering,43235.85,40,Kochi,Active,29
+126,Marketing,124018.1,34,Delhi,Active,29
+127,Finance,73486.9,32,Delhi,On Leave,12
+128,HR,95678.41,24,Kochi,Active,12
+129,Sales,126956.22,34,Kochi,On Leave,1
+130,Finance,81966.69,41,Chennai,Inactive,18
+131,Sales,87947.3,33,Mumbai,On Leave,15
+132,HR,127371.28,33,Chennai,Active,2
+133,Finance,80245.89,54,Mumbai,Active,20
+134,Sales,115049.18,27,Kochi,Inactive,20
+135,Engineering,149515.52,29,Delhi,Inactive,9
+136,Sales,123547.69,36,Bangalore,On Leave,24
+137,Engineering,138132.77,51,Bangalore,On Leave,30
+138,Marketing,88250.87,42,Mumbai,Active,5
+139,Engineering,65978.04,46,Bangalore,Active,24
+140,Support,134119.01,57,Kochi,On Leave,28
+141,Marketing,132074.92,45,Chennai,Inactive,18
+142,Marketing,53755.91,25,Kochi,Inactive,9
+143,Finance,107962.32,42,Mumbai,On Leave,1
+144,Sales,77210.87,45,Delhi,Inactive,7
+145,Sales,95890.15,41,Kochi,Inactive,17
+146,Engineering,50523.05,52,Delhi,Active,29
+147,Finance,32958.58,31,,Inactive,25
+148,Support,95291.4,44,Kochi,Inactive,19
+149,Sales,137937.93,24,Kochi,Active,12
+150,Finance,38114.73,57,Delhi,Active,13
+151,Support,105196.25,33,Bangalore,Active,9
+152,Sales,84740.66,56,Chennai,Inactive,23
+153,Marketing,46923.97,28,Delhi,On Leave,1
+154,Finance,142856.33,38,Mumbai,Inactive,20
+155,Marketing,90405.58,38,Delhi,Active,28
+156,Engineering,130215.36,34,Bangalore,Active,28
+157,HR,,56,,On Leave,22
+158,Engineering,54228.56,41,Chennai,On Leave,18
+159,Support,28362.82,28,Delhi,Inactive,4
+160,Finance,105443.09,24,Mumbai,On Leave,1
+161,Finance,127195.2,56,Mumbai,On Leave,30
+162,Finance,29232.58,27,Bangalore,Inactive,3
+163,HR,61807.42,43,Bangalore,Active,11
+164,Support,71003.04,42,Kochi,Inactive,27
+165,Sales,,55,Bangalore,Inactive,22
+166,Marketing,128478.72,58,Delhi,Inactive,0
+167,HR,31745.56,44,Mumbai,Inactive,22
+168,Marketing,68398.21,54,Kochi,Active,9
+169,HR,45723.88,27,Kochi,Active,20
+170,HR,136480.22,27,Mumbai,Inactive,6
+171,HR,46388.1,36,Delhi,On Leave,19
+172,Support,68560.68,42,Delhi,Inactive,21
+173,Support,111132.67,38,Delhi,Active,10
+174,Finance,48946.72,41,Kochi,Active,23
+175,Engineering,90272.34,32,Bangalore,Active,8
+176,Engineering,145298.21,28,Chennai,Active,4
+177,Marketing,,28,Delhi,Inactive,14
+178,Finance,111679.92,54,Bangalore,Inactive,0
+179,Finance,117618.22,49,Kochi,On Leave,23
+180,Finance,106560.65,36,Delhi,On Leave,3
+181,Engineering,37233.35,48,Chennai,On Leave,22
+182,Support,81899.31,48,Delhi,On Leave,10
+183,Marketing,146827.45,24,Kochi,Active,5
+184,HR,68525.94,58,,Active,22
+185,HR,71239.24,43,Chennai,Active,21
+186,Finance,116138.31,44,Mumbai,Inactive,8
+187,Support,139429.46,44,Bangalore,Active,7
+188,HR,146437.64,47,Delhi,Active,4
+189,Finance,49146.5,57,Delhi,Active,11
+190,Support,76660.81,40,Delhi,Inactive,11
+191,Finance,110931.44,49,Delhi,Inactive,0
+192,HR,106800.34,42,Chennai,Inactive,19
+193,Sales,141090.78,46,Mumbai,On Leave,28
+194,Finance,68143.78,22,Mumbai,Active,30
+195,Engineering,97310.89,36,Chennai,Inactive,25
+196,Finance,45989.1,27,Kochi,On Leave,26
+197,Finance,34826.88,50,Mumbai,On Leave,3
+198,HR,86634.59,25,Chennai,Active,22
+199,Engineering,132859.71,22,Bangalore,Inactive,22
+200,Finance,71869.73,48,Mumbai,Active,20
+201,Sales,30733.79,43,Kochi,Inactive,15
+202,Marketing,76948.94,30,Mumbai,On Leave,11
+203,HR,139041.52,40,Bangalore,Inactive,8
+204,Marketing,128466.76,47,Kochi,Inactive,27
+205,Engineering,123993.89,43,Bangalore,On Leave,9
+206,Finance,149562.0,47,Kochi,Inactive,17
+207,Support,30799.58,52,Mumbai,On Leave,29
+208,Engineering,109212.54,27,Mumbai,On Leave,20
+209,HR,47662.27,24,Mumbai,On Leave,0
+210,Marketing,95262.68,38,Delhi,Inactive,1
+211,HR,141732.32,25,Kochi,On Leave,1
+212,HR,111964.02,47,Mumbai,Active,21
+213,HR,147598.06,52,Kochi,Active,2
+214,,26941.26,22,Mumbai,Active,6
+215,HR,114918.88,37,Delhi,Active,11
+216,Marketing,116215.22,27,Kochi,On Leave,15
+217,Sales,145539.43,24,Mumbai,Active,28
+218,HR,63882.82,32,Kochi,Active,10
+219,Sales,109609.93,31,Bangalore,On Leave,5
+220,Support,123280.28,39,Bangalore,Inactive,8
+221,Support,128426.09,43,Mumbai,Active,19
+222,Finance,55763.88,46,Chennai,On Leave,24
+223,Marketing,25210.63,38,Chennai,Active,18
+224,Support,61065.18,31,Delhi,Inactive,27
+225,Sales,87496.99,56,Kochi,On Leave,15
+226,Marketing,141465.34,36,Kochi,Active,21
+227,HR,98298.54,22,Chennai,On Leave,2
+228,Marketing,74773.32,55,Kochi,Inactive,15
+229,Marketing,36523.54,40,Kochi,On Leave,11
+230,Marketing,30574.31,53,Mumbai,Inactive,20
+231,Support,,39,Kochi,Active,3
+232,Engineering,85789.44,58,Bangalore,Inactive,13
+233,Marketing,101090.35,30,Mumbai,Inactive,6
+234,Finance,29351.26,45,Chennai,Inactive,30
+235,Finance,104980.26,29,Mumbai,Inactive,10
+236,Engineering,108715.19,47,Chennai,Active,11
+237,Marketing,,38,Mumbai,On Leave,28
+238,Sales,89166.78,52,Mumbai,Active,10
+239,Finance,62349.09,50,Mumbai,Inactive,10
+240,Engineering,,50,Delhi,On Leave,28
+241,Sales,29501.57,36,Kochi,Inactive,28
+242,Sales,140742.49,46,Mumbai,Inactive,10
+243,Engineering,70754.01,43,Mumbai,Active,22
+244,HR,43674.0,48,Delhi,Active,0
+245,Sales,45974.73,53,Bangalore,Inactive,28
+246,Support,103875.09,35,Chennai,Inactive,3
+247,Engineering,148877.62,37,Mumbai,Inactive,9
+248,Finance,147316.56,31,Mumbai,Inactive,25
+249,Marketing,,55,Delhi,Inactive,13
+250,Support,47585.81,33,Delhi,On Leave,5
+251,Marketing,101069.47,53,Delhi,Active,4
+252,Sales,97866.64,34,Mumbai,On Leave,23
+253,Marketing,89807.4,44,Bangalore,On Leave,27
+254,Finance,120372.58,30,Bangalore,Active,5
+255,Support,112782.16,58,Mumbai,Inactive,16
+256,Marketing,69589.78,37,Chennai,On Leave,24
+257,Support,116368.24,50,,On Leave,25
+258,,52962.37,33,Mumbai,Inactive,8
+259,Marketing,140788.96,34,Mumbai,On Leave,20
+260,Finance,37858.07,28,Delhi,Active,8
+261,Sales,59952.85,29,Chennai,Active,17
+262,Engineering,96605.18,47,Mumbai,On Leave,12
+263,Marketing,29525.91,25,Bangalore,Inactive,7
+264,HR,95553.07,42,Kochi,Active,10
+265,Finance,56160.56,49,Mumbai,Inactive,3
+266,Engineering,88096.83,23,Delhi,Inactive,12
+267,Sales,126158.57,24,Kochi,Inactive,29
+268,Marketing,140547.96,28,Mumbai,On Leave,0
+269,Sales,63176.47,32,Mumbai,On Leave,30
+270,Engineering,83302.16,56,Chennai,Active,16
+271,Finance,61038.39,37,Mumbai,On Leave,17
+272,Engineering,52702.01,46,Kochi,On Leave,11
+273,Sales,83620.7,41,Delhi,Inactive,7
+274,Engineering,74556.8,44,Delhi,Inactive,17
+275,Sales,52017.63,25,Delhi,On Leave,2
+276,Marketing,89624.45,50,Mumbai,On Leave,7
+277,Engineering,77093.97,44,Delhi,On Leave,19
+278,Marketing,117345.83,52,Delhi,Inactive,27
+279,Support,39680.97,47,Delhi,Inactive,27
+280,Finance,72445.29,50,Chennai,Inactive,23
+281,Sales,99427.56,42,Chennai,Inactive,14
+282,Support,79455.73,46,Delhi,Active,26
+283,Engineering,,42,Chennai,Active,0
+284,Support,140038.98,41,Kochi,Inactive,16
+285,Support,,24,Bangalore,Inactive,30
+286,HR,76189.89,54,Kochi,On Leave,4
+287,Finance,80020.42,43,Kochi,On Leave,26
+288,Support,34385.91,41,Delhi,Active,20
+289,Finance,148781.07,48,Delhi,On Leave,9
+290,Finance,76532.45,25,Kochi,On Leave,3
+291,Sales,30289.21,48,,Inactive,22
+292,Finance,130269.74,22,Mumbai,Active,5
+293,Support,105851.42,56,Delhi,On Leave,6
+294,Sales,119936.99,28,Mumbai,Active,5
+295,Finance,78827.66,25,Mumbai,On Leave,24
+296,Marketing,59430.97,24,Mumbai,On Leave,2
+297,Support,31834.86,47,Mumbai,Inactive,1
+298,Marketing,141352.9,33,Mumbai,Inactive,9
+299,Engineering,147442.68,26,Chennai,On Leave,22
+300,Engineering,113971.77,23,Mumbai,Active,5
+301,Marketing,61337.58,57,Mumbai,Inactive,17
+302,Marketing,145153.58,49,Kochi,Active,12
+303,Marketing,29364.48,23,Delhi,Active,22
+304,HR,123432.71,57,Chennai,Active,5
+305,Marketing,103667.97,35,Chennai,On Leave,6
+306,Support,113309.15,38,Chennai,On Leave,11
+307,Finance,40689.58,29,Kochi,Active,17
+308,Engineering,28589.6,58,Bangalore,Active,12
+309,Finance,53945.59,34,Mumbai,Active,17
+310,Sales,49103.04,41,Delhi,Inactive,4
+311,Finance,,51,Delhi,Inactive,5
+312,Sales,68928.63,48,Chennai,Active,27
+313,Support,,39,Delhi,On Leave,21
+314,Engineering,49760.96,41,Chennai,On Leave,1
+315,Support,95568.73,36,Chennai,On Leave,16
+316,Sales,68629.89,22,Bangalore,Active,28
+317,Sales,55557.13,29,Bangalore,Active,24
+318,Finance,111834.63,47,Kochi,Active,8
+319,Finance,80319.64,43,Kochi,On Leave,22
+320,HR,31787.58,35,Kochi,Active,15
+321,Engineering,125716.69,38,Kochi,Active,24
+322,Marketing,32422.89,44,Chennai,Active,6
+323,Engineering,85805.41,52,Delhi,Active,16
+324,Finance,112256.24,30,Delhi,On Leave,18
+325,Finance,78079.4,32,Delhi,On Leave,14
+326,Marketing,111266.32,22,Chennai,Active,1
+327,Sales,112702.98,50,Delhi,Inactive,14
+328,HR,33977.29,22,Chennai,Active,23
+329,HR,38600.31,53,,Active,25
+330,Finance,105563.34,38,,Active,4
+331,Engineering,43142.16,45,Kochi,On Leave,5
+332,Engineering,102099.39,46,Bangalore,Inactive,7
+333,Sales,128924.1,37,Mumbai,Active,18
+334,Engineering,75402.79,25,Chennai,Inactive,15
+335,Finance,103311.77,31,Delhi,Active,4
+336,HR,29992.89,50,Delhi,Active,23
+337,HR,129192.25,54,Delhi,Inactive,2
+338,Sales,67333.57,50,,On Leave,5
+339,Engineering,109407.68,58,Chennai,Active,17
+340,HR,138588.32,31,Kochi,On Leave,2
+341,Support,101143.58,41,Kochi,Inactive,30
+342,Finance,133157.83,55,Mumbai,Active,7
+343,Support,107560.27,45,Kochi,Inactive,11
+344,Engineering,39281.7,33,Kochi,On Leave,3
+345,Finance,48442.51,38,Chennai,Active,17
+346,Sales,116948.34,58,Chennai,On Leave,2
+347,Finance,88404.36,29,Kochi,Active,14
+348,HR,145004.16,58,Mumbai,Active,11
+349,Finance,71543.36,22,Kochi,Active,14
+350,Support,136078.43,34,Mumbai,On Leave,27
+351,Marketing,125513.73,22,Mumbai,Active,11
+352,Sales,86123.5,44,Bangalore,On Leave,10
+353,Marketing,,38,Delhi,On Leave,14
+354,Sales,123897.23,53,Mumbai,Inactive,5
+355,Support,108695.7,31,Bangalore,On Leave,22
+356,HR,,31,Kochi,Inactive,27
+357,HR,102552.63,47,Delhi,On Leave,27
+358,Marketing,89624.67,45,Kochi,Active,9
+359,Finance,46215.98,45,Chennai,Inactive,18
+360,Marketing,66938.14,52,Delhi,Active,7
+361,Marketing,43228.58,31,Chennai,Inactive,2
+362,Finance,91018.56,30,Mumbai,On Leave,28
+363,Marketing,104137.73,28,Bangalore,Active,27
+364,Finance,145369.66,43,Bangalore,On Leave,27
+365,Finance,75745.31,25,Bangalore,On Leave,10
+366,Marketing,,37,Delhi,Active,6
+367,Marketing,80689.79,58,Delhi,On Leave,2
+368,Sales,96487.32,43,Delhi,On Leave,29
+369,Finance,148432.78,44,Chennai,On Leave,27
+370,Support,46904.13,38,Mumbai,Active,20
+371,Support,74946.7,34,Bangalore,On Leave,20
+372,Sales,41126.79,25,,On Leave,10
+373,Finance,105310.7,22,Bangalore,Active,6
+374,Engineering,,43,Mumbai,Inactive,25
+375,Marketing,86794.99,47,Chennai,Active,0
+376,Engineering,32002.19,43,Mumbai,Active,4
+377,HR,69730.59,45,Bangalore,On Leave,21
+378,Engineering,100196.14,43,Kochi,Inactive,26
+379,Finance,63656.59,57,Chennai,On Leave,8
+380,HR,56614.43,57,Mumbai,On Leave,25
+381,Sales,53520.96,27,Kochi,Active,3
+382,Finance,47727.42,45,Delhi,Active,27
+383,HR,28630.37,37,Chennai,Active,20
+384,Sales,51511.57,23,Mumbai,Active,25
+385,HR,32498.19,58,Chennai,Inactive,30
+386,Engineering,27595.65,49,Delhi,Inactive,6
+387,Engineering,134927.53,53,Kochi,Active,15
+388,Marketing,118942.44,41,Mumbai,Inactive,0
+389,Engineering,110346.67,50,Kochi,Active,28
+390,Engineering,30773.65,50,,Active,29
+391,Engineering,146792.05,22,Bangalore,Active,16
+392,HR,110346.2,27,Bangalore,On Leave,29
+393,Engineering,136872.03,37,Mumbai,Active,4
+394,Sales,38108.54,23,Bangalore,Active,28
+395,Engineering,90676.97,22,Delhi,On Leave,17
+396,HR,39045.39,44,Mumbai,Inactive,6
+397,Sales,34048.53,33,Bangalore,Inactive,2
+398,Marketing,,45,Mumbai,Inactive,22
+399,Finance,66344.09,48,Bangalore,Inactive,13
+400,HR,73384.7,46,Delhi,On Leave,0
+401,Engineering,111708.15,46,Delhi,On Leave,3
+402,Finance,114551.37,47,Kochi,Inactive,21
+403,HR,146451.63,22,Chennai,On Leave,10
+404,Marketing,103689.19,46,Mumbai,Inactive,16
+405,Finance,33999.39,56,Delhi,On Leave,24
+406,Support,115195.17,55,Chennai,On Leave,7
+407,Support,70511.9,35,Delhi,Inactive,7
+408,Marketing,47214.19,24,Chennai,Inactive,26
+409,Sales,112827.72,46,Bangalore,Inactive,21
+410,Marketing,36000.03,47,Chennai,On Leave,3
+411,Sales,119850.35,31,Delhi,Inactive,15
+412,Marketing,,46,Mumbai,On Leave,6
+413,Marketing,63317.48,56,Bangalore,Inactive,7
+414,Engineering,86673.91,27,Delhi,Inactive,30
+415,HR,30487.52,50,Bangalore,Active,22
+416,Marketing,100929.94,38,Delhi,Inactive,27
+417,Sales,146422.04,45,Delhi,Inactive,27
+418,Finance,90726.88,53,Mumbai,Active,18
+419,Engineering,79515.04,52,Mumbai,Inactive,12
+420,HR,108797.56,34,Kochi,Active,29
+421,Sales,121234.78,29,Delhi,Active,18
+422,HR,119163.96,58,Mumbai,On Leave,6
+423,Support,111376.86,48,Delhi,Inactive,26
+424,Engineering,48781.3,22,Kochi,Inactive,16
+425,HR,132359.79,57,Kochi,Inactive,21
+426,Marketing,125246.51,56,Bangalore,Active,4
+427,Finance,83028.07,53,Kochi,Active,11
+428,Finance,113364.65,25,Bangalore,Active,17
+429,HR,29414.28,36,Bangalore,Active,22
+430,Engineering,75750.59,50,Delhi,Active,5
+431,Support,132828.8,26,Chennai,Active,0
+432,Engineering,87277.12,40,Kochi,Active,4
+433,Sales,83207.9,34,Mumbai,Inactive,7
+434,Sales,110739.1,31,Delhi,Active,5
+435,Finance,97757.01,42,Kochi,On Leave,4
+436,HR,51822.53,36,Mumbai,Inactive,12
+437,HR,111774.05,34,Delhi,On Leave,5
+438,Finance,128561.86,29,Delhi,On Leave,30
+439,Sales,27221.5,53,Delhi,Inactive,8
+440,HR,36054.25,30,Bangalore,Active,18
+441,Engineering,145919.32,44,Delhi,On Leave,9
+442,Engineering,55924.55,45,Mumbai,Inactive,25
+443,Support,,32,Chennai,Inactive,1
+444,HR,105851.37,30,Kochi,Inactive,2
+445,Marketing,46212.19,27,Mumbai,On Leave,27
+446,Sales,38316.93,37,Delhi,Inactive,8
+447,Sales,45503.35,56,Kochi,Inactive,11
+448,Finance,148504.81,37,,On Leave,7
+449,Engineering,86050.13,58,Delhi,Active,24
+450,Sales,78000.35,55,Bangalore,On Leave,28
+451,Finance,55444.96,54,Mumbai,Active,2
+452,Marketing,102281.04,33,Bangalore,Active,25
+453,HR,64684.78,48,Mumbai,Active,25
+454,Engineering,43904.31,44,Delhi,Active,29
+455,Sales,149661.73,52,Chennai,On Leave,24
+456,Marketing,32830.2,25,Chennai,Active,20
+457,Engineering,145718.71,53,Bangalore,On Leave,29
+458,HR,123561.95,32,Chennai,On Leave,25
+459,Sales,99199.35,29,Bangalore,Active,7
+460,HR,86577.59,25,Chennai,On Leave,21
+461,Finance,143514.57,36,Bangalore,On Leave,19
+462,Sales,62558.77,23,Chennai,Inactive,13
+463,HR,51707.12,44,Chennai,On Leave,1
+464,HR,112647.09,50,Kochi,Active,3
+465,Marketing,137064.8,46,Bangalore,Active,11
+466,Marketing,135245.1,47,Chennai,Inactive,30
+467,HR,132093.06,32,Kochi,Active,0
+468,Finance,95657.48,38,Bangalore,On Leave,3
+469,Marketing,108263.64,30,Chennai,Active,16
+470,,70227.68,46,Mumbai,On Leave,15
+471,Support,134402.15,29,Chennai,Inactive,9
+472,Marketing,118727.14,24,Chennai,Active,0
+473,Support,98443.51,58,Mumbai,Inactive,5
+474,Support,120306.52,40,Mumbai,Inactive,17
+475,HR,109562.15,46,Bangalore,On Leave,28
+476,Marketing,128234.39,56,Delhi,Active,16
+477,Sales,90064.14,41,Kochi,Inactive,12
+478,Engineering,59043.69,52,Kochi,Inactive,29
+479,HR,74246.38,46,Bangalore,Active,6
+480,Marketing,76031.99,32,Mumbai,Active,8
+481,Marketing,108825.62,26,Chennai,Inactive,22
+482,HR,103774.34,38,Mumbai,Active,17
+483,Engineering,142490.32,38,Mumbai,On Leave,3
+484,Marketing,125970.22,29,Delhi,On Leave,5
+485,Finance,121826.24,47,Bangalore,Inactive,12
+486,Support,114020.21,31,Kochi,Inactive,21
+487,Sales,110238.2,48,Kochi,Active,27
+488,Finance,51742.12,39,Delhi,Active,7
+489,Finance,137292.11,24,Chennai,Inactive,4
+490,Support,137033.0,26,Kochi,On Leave,8
+491,Sales,69967.71,58,Bangalore,Active,22
+492,Finance,52299.04,51,Delhi,Inactive,8
+493,Sales,99458.75,24,Kochi,Inactive,3
+494,Support,145589.82,55,Delhi,Active,17
+495,Finance,126091.03,56,Mumbai,Active,24
+496,Finance,71800.99,39,Mumbai,On Leave,3
+497,Marketing,53285.17,25,Kochi,Inactive,21
+498,Finance,41717.91,51,Kochi,Inactive,6
+499,Sales,60322.67,34,Kochi,Active,14
+500,Support,121664.57,34,Bangalore,On Leave,25
+501,Marketing,114939.06,26,Delhi,Inactive,0
+502,Marketing,92217.02,57,Delhi,On Leave,20
+503,HR,117420.73,44,Mumbai,On Leave,14
+504,HR,70484.6,52,Mumbai,Inactive,25
+505,Support,131246.09,55,Bangalore,On Leave,12
+506,Support,138608.86,39,Chennai,On Leave,23
+507,Sales,41728.71,22,,On Leave,18
+508,HR,146647.18,27,Mumbai,Active,28
+509,HR,67306.25,57,Chennai,On Leave,28
+510,Sales,72826.36,28,Kochi,Active,30
+511,Sales,104547.32,50,Kochi,On Leave,23
+512,Finance,109111.97,37,Chennai,On Leave,28
+513,Finance,99883.97,26,Delhi,Active,0
+514,Engineering,,24,Mumbai,Active,25
+515,Finance,142645.98,36,Mumbai,On Leave,20
+516,Sales,83489.4,52,Mumbai,Active,4
+517,Sales,38224.46,46,Mumbai,Active,17
+518,Sales,101600.83,56,Mumbai,On Leave,17
+519,Sales,94987.37,35,Delhi,On Leave,25
+520,Sales,116943.28,49,Kochi,Active,17
+521,Sales,54866.36,28,Bangalore,Inactive,9
+522,Engineering,,43,Mumbai,Active,2
+523,HR,51735.26,46,Chennai,On Leave,18
+524,Sales,124569.04,23,Mumbai,On Leave,21
+525,HR,31851.93,40,Bangalore,On Leave,4
+526,Engineering,65551.83,28,Chennai,Active,30
+527,Marketing,129602.96,42,Delhi,Active,13
+528,Sales,69598.67,43,Delhi,Inactive,25
+529,Finance,131424.78,49,Bangalore,Inactive,2
+530,Engineering,91364.8,56,Chennai,On Leave,22
+531,Finance,52257.5,22,Bangalore,Inactive,22
+532,Finance,101783.69,32,Bangalore,Inactive,7
+533,Support,133280.24,38,Kochi,Active,20
+534,Support,34742.73,26,Mumbai,Active,11
+535,Finance,106050.0,54,Bangalore,Inactive,5
+536,HR,112096.41,33,Mumbai,Inactive,10
+537,Engineering,123062.28,28,,On Leave,10
+538,Finance,138110.91,32,Kochi,Inactive,21
+539,HR,129608.53,25,Bangalore,On Leave,2
+540,Marketing,26852.27,30,Bangalore,On Leave,23
+541,Support,71310.3,32,Mumbai,Active,29
+542,Finance,120598.49,36,Delhi,Active,24
+543,Sales,83973.77,22,Mumbai,On Leave,12
+544,Sales,79793.06,29,Chennai,On Leave,22
+545,HR,140385.56,36,Chennai,Active,3
+546,Support,54885.0,43,Mumbai,Active,16
+547,Sales,133777.0,46,Mumbai,Inactive,16
+548,Sales,64534.03,28,Chennai,Inactive,14
+549,Finance,34304.38,50,Bangalore,Active,6
+550,HR,,52,Bangalore,Active,16
+551,Finance,28059.08,52,Mumbai,On Leave,20
+552,HR,106392.03,31,Bangalore,On Leave,1
+553,Sales,47715.97,36,Kochi,Inactive,28
+554,Engineering,60646.43,30,Bangalore,On Leave,10
+555,Marketing,109890.01,22,Chennai,Active,2
+556,Support,86512.93,35,Delhi,Active,26
+557,Sales,58872.49,42,Chennai,Active,10
+558,Sales,121253.82,37,Delhi,On Leave,25
+559,Marketing,113966.69,30,Delhi,On Leave,3
+560,Support,149809.61,30,Bangalore,Active,5
+561,Marketing,81552.33,48,Kochi,On Leave,7
+562,Sales,142752.03,48,Mumbai,Inactive,29
+563,Engineering,33816.83,33,Chennai,Active,16
+564,HR,113211.04,29,Delhi,Inactive,21
+565,Engineering,90237.18,57,Chennai,Active,18
+566,Finance,111512.45,38,Delhi,Inactive,11
+567,Support,112630.01,25,Chennai,Active,21
+568,HR,67503.81,33,Bangalore,Active,13
+569,Finance,75131.08,30,Delhi,Inactive,23
+570,Finance,,36,Delhi,Inactive,3
+571,HR,77598.3,26,Kochi,Inactive,30
+572,Engineering,119802.5,42,Chennai,On Leave,0
+573,Support,39642.8,40,Delhi,On Leave,7
+574,Finance,120773.9,41,Bangalore,Active,26
+575,Engineering,120847.9,24,Mumbai,On Leave,17
+576,Sales,124799.6,33,Delhi,Active,5
+577,Sales,148400.99,23,Mumbai,Active,29
+578,Marketing,34168.6,44,Bangalore,Inactive,23
+579,Marketing,35490.93,32,Mumbai,Active,19
+580,Marketing,133513.68,43,Kochi,Inactive,4
+581,Finance,31406.28,31,Chennai,Inactive,9
+582,Sales,125249.28,28,Kochi,Active,6
+583,Finance,126830.98,27,Chennai,On Leave,13
+584,Engineering,38486.96,51,Bangalore,On Leave,13
+585,Engineering,53598.63,23,Kochi,Inactive,6
+586,Marketing,137728.01,35,Bangalore,Active,5
+587,HR,113012.35,41,Bangalore,On Leave,23
+588,Support,61682.73,42,Delhi,Active,5
+589,Support,49713.48,29,Kochi,Inactive,21
+590,Support,38276.97,26,Chennai,Inactive,15
+591,Finance,81203.31,52,Chennai,On Leave,11
+592,Sales,64334.54,25,Chennai,Active,20
+593,Engineering,142925.87,57,Mumbai,Inactive,21
+594,HR,118835.17,43,Kochi,Active,4
+595,Finance,31403.27,40,Delhi,On Leave,3
+596,Engineering,100458.23,48,Delhi,Active,12
+597,HR,40408.67,37,Kochi,Active,2
+598,Engineering,138031.79,52,Delhi,On Leave,25
+599,Finance,116749.09,30,Delhi,Inactive,3
+600,HR,28457.26,54,Delhi,On Leave,10
+601,Sales,110327.17,48,Mumbai,Active,18
+602,Marketing,29919.96,24,Delhi,Inactive,26
+603,HR,102228.7,47,Bangalore,Active,30
+604,Engineering,104476.41,58,Mumbai,On Leave,5
+605,HR,106991.53,46,Bangalore,Active,7
+606,Marketing,68159.77,33,Delhi,On Leave,27
+607,HR,133769.38,57,Bangalore,Inactive,25
+608,Engineering,116180.19,45,,Active,3
+609,Support,53386.87,26,Mumbai,Inactive,23
+610,HR,63892.66,52,Bangalore,On Leave,20
+611,Finance,68120.22,41,Bangalore,On Leave,29
+612,HR,89816.87,52,Chennai,Active,28
+613,Finance,92845.97,29,Kochi,Active,14
+614,Engineering,78664.62,27,Kochi,Inactive,26
+615,Engineering,124238.33,25,Bangalore,On Leave,13
+616,Marketing,77101.83,42,Bangalore,On Leave,23
+617,Support,26354.68,31,Chennai,On Leave,28
+618,Support,93923.62,29,Bangalore,Active,29
+619,Support,131395.38,35,Chennai,Active,17
+620,Support,28802.24,30,Bangalore,On Leave,8
+621,Marketing,31769.98,22,Delhi,On Leave,25
+622,Engineering,46932.31,33,Kochi,On Leave,23
+623,Support,,49,Mumbai,Inactive,30
+624,Finance,137210.42,57,Chennai,Active,10
+625,Engineering,67005.88,37,Delhi,Active,27
+626,HR,45240.96,35,Mumbai,Active,6
+627,Support,77204.7,50,Chennai,Inactive,30
+628,Engineering,88623.68,54,Delhi,Active,11
+629,Marketing,69261.48,49,Bangalore,On Leave,22
+630,Sales,129326.08,57,Mumbai,On Leave,15
+631,,75205.8,49,Bangalore,Active,17
+632,Finance,110811.63,45,Chennai,Inactive,18
+633,HR,44550.5,57,Delhi,Inactive,3
+634,HR,102048.23,52,,Inactive,11
+635,Finance,123967.69,42,Chennai,Active,10
+636,,132137.33,23,Chennai,Active,11
+637,HR,,40,Delhi,On Leave,12
+638,Marketing,125697.09,31,Delhi,Active,1
+639,Engineering,138369.04,28,Kochi,On Leave,29
+640,Finance,129690.97,24,Chennai,On Leave,12
+641,Marketing,47435.16,30,Mumbai,Active,1
+642,Sales,111804.89,32,Chennai,Active,3
+643,Sales,146194.66,45,Chennai,Inactive,12
+644,Engineering,28058.7,33,Delhi,Active,25
+645,HR,91276.55,24,Kochi,On Leave,0
+646,Support,67122.62,47,Delhi,Active,29
+647,Finance,111044.53,32,Mumbai,On Leave,25
+648,HR,130558.38,45,Delhi,On Leave,12
+649,Marketing,144437.68,32,Chennai,Active,8
+650,Support,101825.86,22,Bangalore,Inactive,20
+651,HR,44806.83,56,Bangalore,Active,15
+652,HR,120131.42,58,Bangalore,On Leave,16
+653,HR,122135.12,28,Bangalore,Active,19
+654,Finance,57075.49,50,Bangalore,Active,1
+655,Marketing,106789.59,39,Delhi,On Leave,30
+656,HR,111582.03,39,Bangalore,Inactive,21
+657,Finance,118638.91,31,Bangalore,Active,19
+658,Engineering,41394.39,46,,On Leave,1
+659,Engineering,123885.25,24,Chennai,On Leave,15
+660,Engineering,129985.9,33,Mumbai,On Leave,5
+661,HR,138299.54,36,Delhi,Inactive,8
+662,Finance,101607.88,26,Chennai,On Leave,19
+663,Finance,139218.43,42,Mumbai,On Leave,12
+664,Engineering,145249.68,38,Kochi,On Leave,3
+665,HR,42137.27,52,Chennai,Inactive,18
+666,Marketing,98672.52,32,Mumbai,Inactive,12
+667,HR,97786.27,43,,On Leave,5
+668,HR,40499.18,40,Bangalore,On Leave,24
+669,Support,143674.98,34,Delhi,Inactive,6
+670,HR,55526.98,26,Mumbai,Active,17
+671,Finance,119150.8,37,Mumbai,On Leave,9
+672,Marketing,114149.29,22,Mumbai,Inactive,2
+673,Marketing,26105.23,48,Kochi,On Leave,26
+674,Sales,138270.06,36,Delhi,Active,8
+675,HR,109352.75,46,Mumbai,Active,19
+676,Support,118281.14,39,,Inactive,11
+677,Support,31806.08,49,Kochi,On Leave,12
+678,Marketing,69874.95,45,Kochi,Active,5
+679,Marketing,125108.23,32,Kochi,On Leave,18
+680,Engineering,118754.67,25,,Active,7
+681,HR,69676.6,27,Kochi,Inactive,13
+682,HR,,25,Kochi,Active,29
+683,Sales,57475.0,43,Bangalore,On Leave,2
+684,Finance,142078.51,37,Delhi,Active,9
+685,Support,89193.35,32,Mumbai,Inactive,3
+686,Marketing,,25,Kochi,Active,10
+687,Engineering,48907.49,47,Delhi,On Leave,6
+688,Finance,137825.15,22,Delhi,On Leave,12
+689,Marketing,60960.68,45,Delhi,Inactive,21
+690,Sales,111053.37,49,Delhi,Active,2
+691,Support,103555.92,46,Chennai,Inactive,6
+692,Support,80985.01,26,Chennai,Active,4
+693,Support,28143.67,33,Mumbai,On Leave,25
+694,Marketing,31719.68,39,Delhi,On Leave,26
+695,Engineering,147269.83,50,Mumbai,Active,2
+696,,138406.53,38,Mumbai,Active,25
+697,Sales,30289.91,44,Bangalore,On Leave,10
+698,Finance,141802.87,50,Kochi,On Leave,6
+699,Support,40796.51,44,Kochi,On Leave,7
+700,Finance,27797.65,49,Kochi,Active,1
+701,Support,112960.01,45,Chennai,Active,22
+702,Finance,61299.6,47,Mumbai,Inactive,15
+703,HR,132768.02,41,Bangalore,Active,24
+704,Finance,147915.84,49,Bangalore,On Leave,11
+705,HR,70076.75,24,Kochi,On Leave,28
+706,HR,53662.87,43,Mumbai,On Leave,25
+707,Sales,49629.7,53,Delhi,Inactive,27
+708,Finance,44423.19,31,Delhi,On Leave,5
+709,Engineering,55672.2,24,Mumbai,Inactive,13
+710,HR,39917.19,39,Kochi,Inactive,19
+711,Finance,48231.19,22,Bangalore,Active,24
+712,Sales,114568.0,35,Kochi,On Leave,18
+713,Engineering,131916.89,37,Chennai,On Leave,24
+714,Support,65666.82,27,Chennai,Active,7
+715,Sales,70401.42,36,Bangalore,Inactive,7
+716,Support,55070.42,24,Kochi,Inactive,8
+717,HR,26702.03,46,Delhi,On Leave,19
+718,Sales,144530.75,32,Bangalore,On Leave,14
+719,Sales,133898.11,22,Mumbai,Active,5
+720,Support,61161.18,44,Bangalore,On Leave,5
+721,Engineering,61280.74,56,Delhi,Inactive,11
+722,Support,59245.59,27,Bangalore,Active,11
+723,Marketing,66054.64,29,Delhi,Inactive,0
+724,Finance,45247.85,34,Kochi,Inactive,11
+725,Finance,82156.87,45,Mumbai,Active,12
+726,Support,109462.3,53,Chennai,Active,17
+727,Engineering,57339.39,54,Kochi,Active,21
+728,Finance,41751.48,52,Kochi,Active,4
+729,Engineering,146692.77,58,Chennai,On Leave,26
+730,Engineering,86698.4,57,Mumbai,On Leave,29
+731,Finance,141738.83,54,Delhi,Inactive,25
+732,Support,90089.25,23,Delhi,Inactive,2
+733,Marketing,132803.79,34,Bangalore,On Leave,0
+734,Sales,27808.54,29,Delhi,On Leave,9
+735,HR,35922.15,35,Kochi,Inactive,17
+736,Finance,53457.51,27,Kochi,Inactive,19
+737,HR,92850.9,46,Delhi,Active,8
+738,HR,41650.6,41,Mumbai,Active,3
+739,HR,88730.97,54,Mumbai,On Leave,24
+740,Marketing,75150.68,32,Chennai,On Leave,29
+741,HR,44261.08,33,Kochi,Active,25
+742,Marketing,96385.78,28,Bangalore,Inactive,20
+743,HR,130216.71,42,Mumbai,Inactive,8
+744,Finance,95413.77,30,Delhi,Inactive,21
+745,Finance,126897.41,49,Chennai,Active,27
+746,Finance,43638.46,36,Chennai,Inactive,8
+747,Support,48744.31,52,Kochi,Active,14
+748,HR,147538.66,34,Mumbai,On Leave,18
+749,Support,148237.89,36,Delhi,On Leave,11
+750,Engineering,105418.13,41,Bangalore,On Leave,25
+751,Engineering,133800.7,25,Delhi,Active,2
+752,Marketing,47798.78,22,Chennai,Active,11
+753,Sales,119294.56,22,Bangalore,On Leave,3
+754,Sales,53184.66,44,Bangalore,Inactive,13
+755,Finance,77239.79,54,Chennai,On Leave,13
+756,HR,59313.7,48,Delhi,On Leave,1
+757,Support,55638.84,57,Mumbai,Active,21
+758,Finance,26660.52,53,Delhi,Active,15
+759,Engineering,104443.37,35,,On Leave,0
+760,Marketing,65623.83,36,Mumbai,Active,1
+761,Finance,63214.7,56,Delhi,Active,2
+762,Finance,28144.57,45,Delhi,On Leave,12
+763,Marketing,39723.97,51,Chennai,Inactive,12
+764,Finance,49983.78,52,Chennai,Inactive,16
+765,Marketing,30274.22,50,Delhi,Active,14
+766,,100411.73,32,Delhi,Inactive,28
+767,Finance,35216.69,50,Bangalore,On Leave,14
+768,,38648.02,41,Mumbai,Inactive,11
+769,Finance,43889.28,36,Mumbai,Active,17
+770,HR,127641.69,48,Bangalore,On Leave,7
+771,Finance,147056.4,56,Chennai,Inactive,19
+772,Support,96517.88,35,Bangalore,On Leave,15
+773,Marketing,82046.92,42,Kochi,Inactive,20
+774,Marketing,86969.36,36,Mumbai,Inactive,16
+775,Marketing,55929.28,54,Kochi,On Leave,28
+776,Engineering,143266.59,35,Kochi,On Leave,4
+777,Marketing,132913.89,33,Bangalore,On Leave,19
+778,Finance,106333.24,41,Mumbai,Active,15
+779,HR,137000.99,47,Chennai,Active,11
+780,HR,60721.51,58,Kochi,Inactive,6
+781,HR,67204.9,57,Mumbai,Active,7
+782,Marketing,46557.16,45,Chennai,Inactive,10
+783,Finance,130343.63,56,Delhi,Active,2
+784,Support,67070.53,28,Delhi,Active,22
+785,Marketing,146289.23,40,,Inactive,6
+786,HR,72487.95,22,Chennai,Active,3
+787,HR,28036.48,28,Chennai,On Leave,21
+788,Support,146260.95,45,,Active,24
+789,Support,126198.93,53,Delhi,Inactive,4
+790,Finance,45092.67,27,Kochi,On Leave,20
+791,Sales,61207.53,42,Kochi,Inactive,16
+792,Finance,141413.46,38,Bangalore,Inactive,24
+793,Finance,95827.85,29,Kochi,Active,25
+794,Engineering,113282.51,35,Delhi,Inactive,21
+795,Finance,80703.06,24,Delhi,Active,5
+796,Support,135464.28,48,Mumbai,Inactive,7
+797,,54725.23,41,Chennai,Inactive,12
+798,Engineering,,49,Delhi,Inactive,0
+799,Finance,132336.58,53,Chennai,Inactive,26
+800,HR,144834.11,38,Kochi,Active,15
+801,HR,,28,Chennai,On Leave,19
+802,,120853.14,41,Kochi,Inactive,21
+803,Marketing,84318.97,37,Kochi,Inactive,12
+804,Support,31564.12,41,Delhi,On Leave,12
+805,Support,28641.63,51,Kochi,Active,19
+806,Finance,30641.06,40,Mumbai,Active,10
+807,Marketing,55542.85,32,Delhi,On Leave,12
+808,Support,147435.99,42,Kochi,Active,30
+809,Marketing,79918.13,46,Delhi,Inactive,5
+810,,71336.19,55,Chennai,Active,29
+811,Marketing,129428.07,26,Bangalore,Active,4
+812,HR,30053.24,29,Kochi,Active,15
+813,Engineering,142446.54,41,Mumbai,Active,27
+814,Finance,47742.11,50,Kochi,Inactive,26
+815,Finance,74072.6,31,Kochi,Inactive,8
+816,Engineering,,45,Delhi,On Leave,22
+817,Marketing,63283.28,22,Bangalore,Active,23
+818,HR,126916.58,32,Mumbai,Active,11
+819,Sales,141589.08,22,Chennai,Active,4
+820,Sales,76149.2,50,Mumbai,Inactive,10
+821,Support,68350.32,51,Bangalore,On Leave,27
+822,Engineering,60274.16,29,Chennai,Inactive,14
+823,Support,85078.17,46,Mumbai,Active,14
+824,Sales,86813.14,47,Delhi,On Leave,22
+825,HR,148830.14,52,Bangalore,Inactive,20
+826,Marketing,140403.32,31,Chennai,On Leave,4
+827,Support,139027.37,52,Kochi,Active,5
+828,Marketing,76668.21,23,Kochi,Inactive,11
+829,Finance,27522.5,48,Delhi,On Leave,25
+830,HR,149037.32,41,Delhi,Inactive,11
+831,HR,104152.2,45,Mumbai,Active,2
+832,Finance,120011.44,48,Bangalore,On Leave,13
+833,Marketing,88405.84,49,Bangalore,Inactive,10
+834,Engineering,87446.79,54,Mumbai,Active,1
+835,HR,54548.35,41,Kochi,Inactive,17
+836,HR,50890.4,27,Delhi,On Leave,26
+837,Engineering,65588.02,49,Mumbai,Active,2
+838,Marketing,103190.29,39,Chennai,Active,8
+839,Engineering,81662.77,44,Kochi,On Leave,20
+840,Finance,62959.12,45,Bangalore,On Leave,7
+841,Sales,53832.18,42,Mumbai,Inactive,22
+842,Support,62689.54,36,Delhi,Inactive,6
+843,Sales,96628.51,46,Mumbai,On Leave,28
+844,HR,103797.22,42,Delhi,Inactive,25
+845,Engineering,,52,Bangalore,Inactive,24
+846,Finance,120522.03,50,Kochi,On Leave,27
+847,Marketing,116097.48,34,Chennai,Inactive,0
+848,HR,97199.76,33,Bangalore,Active,11
+849,HR,56466.06,54,Bangalore,On Leave,28
+850,Marketing,109830.44,57,Bangalore,On Leave,30
+851,HR,53678.43,34,Bangalore,Inactive,0
+852,Engineering,89109.83,39,Delhi,Inactive,3
+853,Support,78401.6,27,Chennai,Inactive,9
+854,Support,30311.59,48,Bangalore,On Leave,5
+855,Engineering,135693.33,28,Delhi,Active,1
+856,Marketing,110090.86,53,Chennai,Inactive,21
+857,Engineering,,52,Mumbai,On Leave,10
+858,Engineering,43613.94,55,Mumbai,On Leave,19
+859,HR,97832.91,43,Mumbai,Inactive,10
+860,HR,27496.68,53,Delhi,Active,17
+861,Support,82555.84,36,Mumbai,Inactive,30
+862,Finance,105289.29,45,Mumbai,Inactive,3
+863,HR,73055.92,51,Bangalore,Inactive,9
+864,Marketing,47200.09,35,Kochi,Inactive,6
+865,Support,35306.18,24,Delhi,Active,16
+866,Sales,126838.98,39,Chennai,On Leave,8
+867,Engineering,50902.54,35,Delhi,Active,28
+868,Sales,85840.25,45,Chennai,Inactive,22
+869,HR,144214.76,24,Delhi,Inactive,24
+870,Support,125253.82,30,Chennai,Inactive,8
+871,,70493.95,28,Kochi,On Leave,5
+872,Engineering,66061.42,42,Mumbai,Active,13
+873,HR,133687.65,35,Bangalore,On Leave,20
+874,Sales,121944.98,32,Bangalore,On Leave,26
+875,Sales,116474.24,50,Mumbai,On Leave,23
+876,Engineering,89493.88,57,Mumbai,On Leave,8
+877,Marketing,96572.85,30,Chennai,On Leave,13
+878,,89664.83,31,Bangalore,Inactive,9
+879,HR,115186.17,47,Chennai,Active,18
+880,Finance,43916.64,25,Bangalore,Inactive,21
+881,HR,129557.94,37,Bangalore,On Leave,27
+882,Sales,54191.16,45,Bangalore,On Leave,26
+883,HR,43139.14,25,Delhi,Active,23
+884,Sales,136447.15,30,Kochi,Active,13
+885,HR,149937.13,36,Bangalore,Active,18
+886,Marketing,130634.38,55,Mumbai,Inactive,27
+887,Marketing,102911.37,54,Mumbai,Inactive,3
+888,Support,91975.78,31,Bangalore,Inactive,29
+889,Finance,44503.33,38,Chennai,Active,29
+890,Engineering,134551.44,43,Chennai,Inactive,12
+891,HR,70638.59,25,Bangalore,Active,29
+892,Engineering,58943.58,30,Bangalore,On Leave,26
+893,Finance,47135.25,43,Kochi,Inactive,0
+894,Engineering,145245.86,27,Mumbai,Inactive,17
+895,Finance,128094.26,44,Mumbai,On Leave,23
+896,Support,30564.16,32,Bangalore,On Leave,2
+897,Marketing,55267.72,56,Chennai,Active,27
+898,Support,39659.62,44,Bangalore,On Leave,3
+899,Marketing,100669.42,42,Bangalore,Inactive,19
+900,Support,101549.07,44,Delhi,On Leave,13
+901,Support,133197.02,55,Bangalore,Active,18
+902,Support,55220.69,54,Chennai,Active,17
+903,Sales,45674.55,45,,On Leave,10
+904,Marketing,47953.95,41,Mumbai,On Leave,21
+905,Marketing,92815.56,40,Delhi,Active,14
+906,Marketing,73139.34,57,Kochi,Active,12
+907,Finance,100759.16,51,Mumbai,On Leave,17
+908,Engineering,56922.64,28,Bangalore,Inactive,27
+909,Marketing,113225.51,48,Bangalore,Active,4
+910,HR,,31,Chennai,On Leave,25
+911,Sales,37659.93,42,Bangalore,On Leave,22
+912,HR,94238.59,45,Bangalore,Active,28
+913,Sales,111724.32,49,Mumbai,On Leave,9
+914,Engineering,94663.11,27,Delhi,Active,21
+915,Engineering,125838.15,22,Mumbai,Active,0
+916,Engineering,72176.8,31,Kochi,On Leave,18
+917,Finance,145072.38,36,Bangalore,Inactive,17
+918,Finance,70481.31,30,Kochi,Inactive,4
+919,Finance,145029.53,22,,On Leave,27
+920,Marketing,128519.49,47,Kochi,Active,20
+921,Marketing,36056.62,47,Delhi,Inactive,20
+922,HR,129778.33,57,Kochi,Inactive,16
+923,HR,144518.09,35,Mumbai,Inactive,3
+924,Engineering,139934.52,35,Delhi,Active,7
+925,Marketing,26899.24,48,Kochi,Inactive,19
+926,HR,103884.42,32,Chennai,Inactive,27
+927,Finance,102027.08,33,Kochi,Active,27
+928,Finance,53872.89,45,Kochi,On Leave,3
+929,Marketing,73420.25,29,Bangalore,On Leave,10
+930,HR,27891.73,26,Kochi,On Leave,10
+931,Support,71655.08,48,Bangalore,Inactive,8
+932,Sales,112028.26,45,Kochi,On Leave,29
+933,Marketing,138799.81,23,,Active,30
+934,Finance,32340.82,57,Kochi,On Leave,14
+935,Sales,112066.96,44,Delhi,Active,23
+936,Finance,124324.38,33,Kochi,Inactive,29
+937,HR,108721.41,38,Kochi,On Leave,18
+938,Support,28075.83,56,Mumbai,Active,25
+939,HR,76447.53,40,Delhi,Active,21
+940,Finance,56932.7,33,Mumbai,Active,19
+941,Support,57933.89,37,Mumbai,Inactive,6
+942,HR,53777.09,28,Kochi,Active,10
+943,Finance,124402.95,52,Delhi,Inactive,12
+944,Support,103396.98,50,Chennai,Active,2
+945,HR,41038.38,48,Chennai,Inactive,21
+946,Support,141212.88,40,Mumbai,On Leave,28
+947,Engineering,103807.96,37,Chennai,On Leave,26
+948,Engineering,79575.53,31,Delhi,Inactive,26
+949,Finance,84560.97,51,Chennai,Active,12
+950,Finance,28378.99,55,Delhi,Active,24
+951,Support,69725.66,34,Bangalore,Active,24
+952,Sales,,54,Mumbai,On Leave,9
+953,,28067.27,46,Chennai,On Leave,14
+954,Engineering,104353.88,50,Kochi,Active,5
+955,Support,64090.75,39,Chennai,Active,9
+956,Sales,147257.33,50,Kochi,Inactive,27
+957,Marketing,123671.47,29,Mumbai,Inactive,2
+958,Engineering,144504.92,47,Mumbai,On Leave,10
+959,,111762.21,58,Delhi,On Leave,24
+960,Engineering,47025.79,36,Delhi,Inactive,10
+961,HR,108158.63,54,Delhi,On Leave,9
+962,Finance,76679.48,50,Delhi,Inactive,1
+963,HR,76015.75,58,Mumbai,Active,3
+964,Finance,,27,Kochi,Active,6
+965,HR,91157.63,58,Chennai,Active,8
+966,HR,82157.26,33,Bangalore,On Leave,14
+967,,85223.16,58,Kochi,On Leave,25
+968,,147562.02,30,Mumbai,Active,23
+969,Support,86768.82,22,Bangalore,Inactive,12
+970,Engineering,110705.36,42,Chennai,Inactive,11
+971,Finance,63578.63,53,Mumbai,On Leave,7
+972,Engineering,129081.09,52,Mumbai,On Leave,14
+973,,102280.15,34,Kochi,On Leave,25
+974,Sales,129695.32,41,Mumbai,Active,14
+975,Marketing,127382.64,46,Delhi,Inactive,12
+976,HR,72715.41,28,Kochi,Active,5
+977,Finance,104644.16,55,Delhi,Inactive,17
+978,Marketing,73839.85,52,Bangalore,On Leave,21
+979,Finance,91218.11,23,Mumbai,On Leave,18
+980,Support,71241.65,48,Bangalore,Inactive,30
+981,Finance,149683.53,32,Kochi,On Leave,25
+982,Engineering,119999.63,35,Kochi,Inactive,14
+983,HR,116962.03,26,Chennai,Inactive,22
+984,Finance,,38,Chennai,On Leave,30
+985,Support,106690.8,32,Bangalore,Inactive,3
+986,HR,79917.67,44,Kochi,Inactive,16
+987,Marketing,103249.24,27,Bangalore,Active,11
+988,Engineering,100614.22,22,Delhi,Active,28
+989,Support,,50,Kochi,On Leave,30
+990,Finance,54478.15,24,Delhi,On Leave,18
+991,Marketing,77061.89,53,Chennai,On Leave,11
+992,HR,85562.0,33,Kochi,Active,30
+993,Sales,76792.14,38,Mumbai,Active,11
+994,Marketing,,45,Delhi,Inactive,4
+995,Engineering,,31,Chennai,Inactive,14
+996,Support,115819.1,37,Kochi,Inactive,27
+997,Engineering,56271.64,32,Delhi,On Leave,16
+998,Finance,26188.25,35,Kochi,Inactive,9
+999,Sales,64673.85,51,Delhi,Inactive,8
+1000,Engineering,138123.41,30,Kochi,Active,28
+1001,Engineering,65481.11,46,Delhi,Active,8
+1002,Sales,85392.89,26,Chennai,Active,7
+1003,HR,65438.75,26,Kochi,Inactive,3
+1004,HR,92422.91,28,Kochi,On Leave,14
+1005,Sales,35746.9,47,Bangalore,Active,7
+1006,Sales,146094.58,44,Chennai,Active,19
+1007,Support,25593.28,30,Mumbai,Active,2
+1008,Sales,133339.2,29,Bangalore,Active,17
+1009,Support,49436.19,48,Kochi,Active,3
+1010,Marketing,117559.21,40,Chennai,On Leave,12
+1011,HR,54828.41,58,Mumbai,Inactive,21
+1012,Sales,104819.17,33,Kochi,Inactive,18
+1013,Support,88450.55,42,Kochi,Inactive,26
+1014,Support,39303.74,30,Mumbai,On Leave,27
+1015,Engineering,69442.04,38,Bangalore,On Leave,30
+1016,Finance,102798.75,23,Bangalore,Inactive,19
+1017,Finance,70624.18,27,Chennai,On Leave,25
+1018,HR,28932.0,58,Chennai,On Leave,22
+1019,Sales,60163.52,51,Chennai,Inactive,0
+1020,HR,27432.45,57,Bangalore,Active,24
+1021,Finance,,28,Kochi,On Leave,1
+1022,Marketing,100237.51,24,Mumbai,On Leave,28
+1023,Marketing,129979.17,27,Chennai,Inactive,10
+1024,Sales,69888.28,29,Kochi,On Leave,14
+1025,Engineering,47711.32,43,Chennai,On Leave,1
+1026,Sales,42804.34,28,Kochi,On Leave,12
+1027,Support,113010.81,33,Delhi,Inactive,17
+1028,HR,82512.39,39,Bangalore,On Leave,17
+1029,Marketing,107249.62,26,Chennai,Active,8
+1030,Marketing,36870.33,31,Mumbai,On Leave,30
+1031,Sales,90226.33,33,Chennai,Active,21
+1032,HR,88891.65,51,,Inactive,30
+1033,Sales,29930.64,54,Bangalore,Active,15
+1034,Marketing,,39,Kochi,Active,8
+1035,Finance,120463.4,58,Bangalore,Inactive,13
+1036,Support,69731.27,31,Mumbai,Inactive,21
+1037,Marketing,67622.15,43,Kochi,On Leave,6
+1038,Engineering,87699.28,51,Bangalore,Inactive,27
+1039,Finance,131995.26,26,Delhi,Inactive,13
+1040,Marketing,70609.8,56,Delhi,Active,25
+1041,Engineering,34286.89,26,,On Leave,15
+1042,Support,50951.88,42,Kochi,On Leave,16
+1043,Marketing,128256.5,30,Delhi,On Leave,14
+1044,Marketing,108609.35,33,Mumbai,Inactive,15
+1045,Sales,149236.19,25,Mumbai,Inactive,10
+1046,Sales,149051.44,45,Kochi,Active,20
+1047,Finance,94118.19,55,Chennai,Active,6
+1048,HR,79011.32,25,Delhi,On Leave,1
+1049,HR,87808.95,28,Chennai,On Leave,13
+1050,Engineering,32652.66,54,Delhi,On Leave,29
+1051,Engineering,109576.07,45,Bangalore,Inactive,6
+1052,Finance,108705.34,48,Bangalore,Inactive,7
+1053,HR,106555.02,49,Mumbai,Inactive,3
+1054,Engineering,135783.88,43,Delhi,Active,26
+1055,Sales,97302.56,38,Mumbai,On Leave,15
+1056,Marketing,80115.19,27,Chennai,Inactive,3
+1057,Marketing,,45,Bangalore,On Leave,8
+1058,Marketing,135477.25,37,Chennai,Active,26
+1059,Support,71844.54,40,Bangalore,On Leave,10
+1060,Engineering,93510.58,39,Mumbai,Inactive,27
+1061,Sales,128419.12,39,Mumbai,Active,26
+1062,Support,35002.03,53,Delhi,Inactive,5
+1063,Sales,52117.62,30,Kochi,Active,22
+1064,Finance,65006.03,47,Kochi,Active,13
+1065,Sales,113672.89,44,Bangalore,Active,24
+1066,Finance,100392.54,57,Delhi,On Leave,1
+1067,Sales,88155.71,46,Delhi,Active,20
+1068,Sales,79496.08,33,Chennai,Inactive,27
+1069,Sales,84490.98,35,Chennai,Active,18
+1070,Support,46711.69,52,Mumbai,On Leave,13
+1071,Support,74656.83,54,Kochi,On Leave,7
+1072,Support,143740.19,43,Mumbai,On Leave,15
+1073,Finance,74398.48,49,Kochi,On Leave,27
+1074,Engineering,100655.01,55,Mumbai,Active,28
+1075,Support,120222.37,48,Mumbai,On Leave,11
+1076,Engineering,82752.66,48,Mumbai,On Leave,14
+1077,Support,69180.06,28,Mumbai,On Leave,17
+1078,Engineering,70318.6,51,Chennai,Active,27
+1079,HR,147414.07,37,Chennai,Inactive,26
+1080,,52952.48,52,Chennai,Inactive,27
+1081,Support,145292.38,40,Bangalore,Active,6
+1082,Support,140736.77,27,Delhi,Active,21
+1083,Support,63297.5,50,Delhi,On Leave,3
+1084,HR,36090.14,57,Bangalore,On Leave,23
+1085,Engineering,91046.09,48,Mumbai,On Leave,23
+1086,Support,60356.35,51,Kochi,On Leave,0
+1087,Sales,71893.37,52,Kochi,On Leave,21
+1088,Support,26402.59,45,Mumbai,Active,6
+1089,Sales,49194.94,38,Mumbai,Active,11
+1090,HR,80450.8,29,Kochi,Active,5
+1091,Engineering,108269.9,32,Delhi,Inactive,3
+1092,Support,65557.58,45,Bangalore,Active,11
+1093,Support,54804.25,47,Kochi,Inactive,4
+1094,Marketing,43668.25,56,Mumbai,Inactive,0
+1095,Engineering,34118.83,54,Bangalore,On Leave,22
+1096,,136852.67,45,Mumbai,On Leave,30
+1097,Finance,141607.84,29,Kochi,Inactive,15
+1098,Engineering,102826.24,26,Chennai,Active,9
+1099,Engineering,27646.6,38,Mumbai,On Leave,21
+1100,Support,139691.79,42,Delhi,On Leave,16
+1101,Marketing,88477.92,35,Chennai,Active,27
+1102,Finance,104776.06,33,Kochi,Active,29
+1103,Marketing,83434.0,26,Bangalore,Inactive,26
+1104,Marketing,76413.24,30,Kochi,Inactive,11
+1105,Sales,68225.58,22,Mumbai,Active,23
+1106,Finance,56212.62,34,Bangalore,On Leave,28
+1107,Engineering,97610.3,43,Delhi,Inactive,25
+1108,Sales,55093.33,52,Mumbai,On Leave,1
+1109,Finance,118719.31,44,Bangalore,On Leave,18
+1110,Marketing,146988.12,38,Bangalore,On Leave,13
+1111,Engineering,119917.31,29,Kochi,On Leave,30
+1112,Finance,123233.09,44,Mumbai,Active,15
+1113,Support,65769.87,30,Kochi,On Leave,28
+1114,Sales,104562.46,56,Delhi,Active,22
+1115,,147300.96,40,Chennai,Active,27
+1116,Support,56703.52,52,Delhi,Active,16
+1117,Support,37894.15,24,Chennai,Active,20
+1118,Marketing,83962.97,29,Delhi,Active,29
+1119,Finance,78010.66,31,Bangalore,On Leave,15
+1120,Sales,133911.28,33,Bangalore,On Leave,24
+1121,,117789.68,57,Bangalore,Inactive,6
+1122,Engineering,90101.68,31,Kochi,On Leave,22
+1123,Sales,,51,Kochi,Active,25
+1124,Marketing,76289.99,40,Delhi,Inactive,30
+1125,Marketing,71398.1,54,Delhi,On Leave,9
+1126,Finance,125465.13,42,Delhi,Inactive,25
+1127,HR,120106.47,48,Kochi,Inactive,5
+1128,Finance,64575.0,33,Chennai,Inactive,4
+1129,Marketing,64779.11,22,Bangalore,Active,26
+1130,Engineering,61729.27,38,Chennai,Active,0
+1131,HR,31447.12,40,Delhi,On Leave,18
+1132,Engineering,,32,Delhi,Active,2
+1133,Sales,48543.69,33,Mumbai,Inactive,4
+1134,Sales,72658.89,41,Mumbai,On Leave,9
+1135,Support,37368.88,30,Delhi,Inactive,8
+1136,Finance,39287.27,30,Mumbai,On Leave,14
+1137,,140932.3,23,Bangalore,Active,15
+1138,Marketing,129804.32,58,Kochi,Active,20
+1139,Sales,82216.49,53,Delhi,On Leave,15
+1140,Finance,52646.78,41,Delhi,On Leave,14
+1141,HR,52069.62,28,Chennai,Active,29
+1142,Sales,68247.52,29,Kochi,Active,12
+1143,Engineering,94049.51,30,Kochi,On Leave,19
+1144,HR,122178.7,38,Bangalore,On Leave,12
+1145,Support,26655.92,42,Mumbai,Inactive,13
+1146,Finance,137292.75,29,Kochi,Inactive,16
+1147,Support,77357.37,44,Delhi,Inactive,13
+1148,Engineering,32613.26,29,Delhi,Active,9
+1149,Finance,90001.0,34,Delhi,Inactive,1
+1150,Support,149942.98,25,Delhi,Active,2
+1151,Support,74095.88,37,Kochi,Inactive,29
+1152,Marketing,57071.14,49,Kochi,On Leave,12
+1153,,41387.97,28,Kochi,On Leave,24
+1154,Engineering,32316.22,34,Kochi,Active,0
+1155,Sales,141138.39,29,Mumbai,Active,30
+1156,Sales,33409.55,50,Mumbai,Active,24
+1157,Support,26237.69,22,Chennai,On Leave,16
+1158,Engineering,146101.32,38,Bangalore,On Leave,28
+1159,Support,40590.7,26,Bangalore,Active,29
+1160,HR,95383.73,50,Delhi,Active,18
+1161,Marketing,75149.97,43,Chennai,On Leave,17
+1162,Engineering,77430.94,55,Kochi,On Leave,11
+1163,Support,120259.26,48,Bangalore,On Leave,1
+1164,HR,32806.38,33,Delhi,Inactive,11
+1165,Sales,52184.55,42,Kochi,On Leave,25
+1166,HR,26389.82,44,Kochi,Inactive,10
+1167,Marketing,47651.42,36,Chennai,Inactive,15
+1168,Sales,127651.69,53,Chennai,On Leave,30
+1169,Support,34001.42,44,Kochi,Active,19
+1170,Engineering,84652.05,33,Bangalore,Inactive,10
+1171,Sales,35989.05,42,Delhi,On Leave,18
+1172,HR,31323.19,52,Delhi,Active,3
+1173,Marketing,97898.69,28,Delhi,Active,23
+1174,Engineering,145163.93,50,Bangalore,Active,9
+1175,Sales,121747.94,55,Bangalore,On Leave,30
+1176,HR,42445.41,33,Mumbai,Active,21
+1177,Marketing,86697.44,43,Mumbai,Inactive,29
+1178,Support,32554.48,54,Delhi,On Leave,1
+1179,HR,117881.34,50,Mumbai,Active,17
+1180,HR,69734.52,57,Bangalore,Inactive,22
+1181,Finance,135549.72,41,Delhi,Active,0
+1182,Finance,82548.39,26,Bangalore,On Leave,24
+1183,Finance,41268.44,39,Chennai,On Leave,16
+1184,Finance,119880.29,57,,Inactive,28
+1185,Marketing,27290.09,57,Kochi,Active,7
+1186,HR,85779.22,26,Kochi,On Leave,10
+1187,Sales,142615.4,49,Delhi,Active,10
+1188,Sales,112140.71,47,Kochi,Active,25
+1189,Support,29125.77,43,Kochi,On Leave,23
+1190,Support,26887.51,32,Chennai,Inactive,26
+1191,Engineering,102131.79,52,Bangalore,Active,16
+1192,Sales,58384.18,58,Bangalore,Active,18
+1193,Engineering,111003.38,31,Delhi,Inactive,4
+1194,Support,89734.86,39,Mumbai,Inactive,21
+1195,Engineering,,23,Chennai,On Leave,19
+1196,Marketing,81831.19,53,Mumbai,Active,14
+1197,HR,,40,Bangalore,Active,18
+1198,Engineering,74394.71,45,Chennai,Active,16
+1199,Finance,135691.97,26,Mumbai,Active,3
+1200,Finance,53939.85,51,Mumbai,Inactive,22
+1201,Engineering,135445.74,40,Delhi,Active,28
+1202,,117501.0,40,Mumbai,On Leave,9
+1203,Marketing,116616.51,40,Kochi,Inactive,7
+1204,Support,52623.42,49,Chennai,Inactive,9
+1205,HR,52596.16,28,Bangalore,Inactive,23
+1206,Finance,,31,Kochi,Inactive,5
+1207,,25043.6,24,Chennai,Inactive,0
+1208,HR,124270.0,43,Mumbai,Active,26
+1209,HR,45049.97,49,Bangalore,Inactive,18
+1210,HR,66850.03,35,Chennai,Active,28
+1211,Support,143878.7,49,Kochi,Active,24
+1212,Engineering,136408.91,58,Bangalore,On Leave,12
+1213,Engineering,39740.2,56,Delhi,On Leave,15
+1214,HR,125589.16,49,Delhi,On Leave,29
+1215,Finance,101953.68,58,Bangalore,Inactive,19
+1216,Marketing,86698.75,28,Delhi,Active,9
+1217,HR,128812.09,46,Chennai,Inactive,14
+1218,Marketing,77481.92,45,Delhi,Inactive,6
+1219,Support,123824.61,57,Kochi,Inactive,30
+1220,Marketing,87404.33,36,Mumbai,On Leave,20
+1221,Finance,,44,Kochi,Inactive,5
+1222,Finance,100220.6,45,Delhi,On Leave,20
+1223,Finance,93941.02,48,Kochi,On Leave,29
+1224,Engineering,,44,Chennai,On Leave,5
+1225,HR,96731.96,30,Delhi,Inactive,6
+1226,Finance,58474.32,55,Delhi,Inactive,9
+1227,Engineering,123397.26,56,Bangalore,Active,13
+1228,Sales,31007.06,43,Bangalore,Active,22
+1229,Sales,141524.72,44,Chennai,On Leave,10
+1230,HR,74710.99,41,Kochi,On Leave,17
+1231,Sales,75249.41,35,Bangalore,On Leave,6
+1232,Sales,99516.83,37,Kochi,Inactive,20
+1233,Support,52652.6,36,Bangalore,Inactive,30
+1234,Finance,74239.34,51,Delhi,On Leave,14
+1235,Support,90964.61,41,Chennai,On Leave,1
+1236,Finance,147279.46,53,Bangalore,Inactive,8
+1237,HR,143767.07,37,Bangalore,Active,30
+1238,HR,37383.22,52,Chennai,Active,27
+1239,Finance,35995.44,28,Bangalore,Inactive,16
+1240,HR,53761.78,34,Delhi,Active,27
+1241,Sales,51785.87,25,Bangalore,Active,21
+1242,Support,42035.67,33,,Inactive,10
+1243,Sales,56687.95,27,Mumbai,Active,27
+1244,Marketing,45451.5,54,Kochi,Active,29
+1245,Engineering,119570.63,52,Kochi,On Leave,17
+1246,HR,79552.31,54,Delhi,Inactive,1
+1247,Marketing,42570.73,32,Delhi,Inactive,21
+1248,Marketing,38179.14,45,Bangalore,Active,13
+1249,Sales,103690.27,40,Delhi,On Leave,1
+1250,Marketing,147942.96,57,Mumbai,Inactive,17
+1251,Engineering,27902.36,47,Delhi,Active,12
+1252,Engineering,130981.64,48,Chennai,Active,5
+1253,Sales,68275.68,42,Mumbai,On Leave,9
+1254,Engineering,126514.29,39,Kochi,On Leave,21
+1255,HR,36418.77,39,Chennai,On Leave,16
+1256,Support,133098.19,52,Bangalore,Active,23
+1257,Sales,29012.92,49,,On Leave,11
+1258,HR,128915.45,26,Kochi,On Leave,3
+1259,Finance,34863.25,24,Mumbai,On Leave,21
+1260,Finance,38937.57,30,Bangalore,Inactive,21
+1261,HR,35457.79,45,Delhi,Inactive,2
+1262,Marketing,84303.14,28,Mumbai,Active,13
+1263,Finance,105435.16,34,Kochi,On Leave,12
+1264,Marketing,129498.56,37,Chennai,Active,18
+1265,Support,25331.32,28,Chennai,On Leave,9
+1266,Marketing,136415.45,47,Delhi,Inactive,4
+1267,Engineering,119085.85,54,Bangalore,On Leave,18
+1268,Sales,85975.4,47,Kochi,Active,24
+1269,Sales,99520.8,29,Bangalore,Active,11
+1270,Marketing,36751.38,51,Delhi,Active,11
+1271,Sales,70968.79,51,Kochi,Active,27
+1272,Engineering,114308.33,48,Kochi,Active,23
+1273,Finance,43750.2,39,Bangalore,On Leave,30
+1274,Marketing,105226.73,45,Chennai,Inactive,18
+1275,Support,47790.57,49,Delhi,Active,5
+1276,Finance,102522.85,47,Kochi,On Leave,21
+1277,Marketing,121781.37,57,Delhi,Active,19
+1278,Support,136697.93,27,Delhi,Inactive,11
+1279,Support,66037.99,55,Bangalore,Active,8
+1280,Support,75872.97,46,Chennai,On Leave,14
+1281,Marketing,35866.69,23,Bangalore,Active,4
+1282,Engineering,,49,Kochi,Active,4
+1283,HR,118751.05,38,Chennai,Active,13
+1284,HR,79689.62,37,Bangalore,On Leave,22
+1285,HR,96280.49,36,Chennai,On Leave,1
+1286,Sales,33189.24,36,Kochi,On Leave,6
+1287,Marketing,64881.05,25,Delhi,Active,28
+1288,Finance,83003.75,58,Kochi,Active,29
+1289,Support,115911.54,51,Chennai,Active,26
+1290,HR,62169.08,33,Bangalore,On Leave,23
+1291,Engineering,110082.39,43,Bangalore,On Leave,22
+1292,Finance,142613.29,23,Chennai,Inactive,9
+1293,Marketing,147875.74,22,Chennai,On Leave,17
+1294,Support,38041.83,39,Chennai,On Leave,14
+1295,Sales,128737.45,27,Chennai,Active,30
+1296,Sales,86288.94,44,Mumbai,On Leave,2
+1297,HR,80610.69,28,Bangalore,Active,6
+1298,Sales,73843.63,28,Delhi,On Leave,22
+1299,Marketing,57789.69,55,Bangalore,On Leave,17
+1300,Marketing,102493.37,50,Delhi,Inactive,16
+1301,HR,110006.23,33,Kochi,Inactive,8
+1302,Marketing,45625.5,46,Delhi,On Leave,2
+1303,Engineering,95808.3,30,Mumbai,On Leave,20
+1304,Marketing,54140.74,42,Kochi,On Leave,3
+1305,Finance,144420.28,48,Chennai,On Leave,16
+1306,HR,68327.22,51,Delhi,Active,15
+1307,HR,,47,Mumbai,Active,4
+1308,Sales,80180.28,23,Mumbai,Inactive,28
+1309,Engineering,32391.95,55,Bangalore,On Leave,7
+1310,Engineering,37847.57,40,Delhi,Active,21
+1311,Finance,126728.13,23,Kochi,Active,27
+1312,Support,38384.03,27,Mumbai,Inactive,10
+1313,Finance,109086.25,51,Mumbai,Active,5
+1314,HR,88180.15,56,Bangalore,Active,0
+1315,Finance,30307.88,40,Mumbai,On Leave,1
+1316,Engineering,115031.84,46,Mumbai,On Leave,7
+1317,Finance,83372.42,31,Bangalore,Inactive,22
+1318,Engineering,98815.73,37,Chennai,Active,6
+1319,Sales,33473.57,36,Mumbai,On Leave,20
+1320,Finance,141544.31,46,Kochi,Active,9
+1321,Sales,118934.72,54,Chennai,Inactive,29
+1322,Support,147366.31,41,Chennai,On Leave,4
+1323,Marketing,142654.56,40,Chennai,Active,6
+1324,Support,115614.68,39,Chennai,Inactive,15
+1325,Engineering,71466.5,40,Chennai,Active,21
+1326,Finance,145087.12,37,Bangalore,On Leave,12
+1327,Support,68394.01,33,Chennai,On Leave,3
+1328,HR,88105.92,55,Delhi,Inactive,30
+1329,Engineering,92453.59,43,Bangalore,Inactive,10
+1330,Engineering,96643.54,46,Delhi,Inactive,11
+1331,Engineering,82952.53,52,Mumbai,Active,17
+1332,HR,133620.27,54,Bangalore,Active,13
+1333,Sales,52114.37,55,Bangalore,On Leave,11
+1334,Finance,77543.18,58,Kochi,On Leave,3
+1335,Marketing,120224.13,36,Bangalore,Inactive,19
+1336,Marketing,55376.82,37,Bangalore,On Leave,5
+1337,HR,53909.39,44,Mumbai,Inactive,23
+1338,Finance,78355.85,36,Bangalore,Active,24
+1339,Finance,93478.43,54,Chennai,Active,7
+1340,Finance,111608.48,57,Delhi,On Leave,30
+1341,Marketing,53755.72,55,Chennai,Active,17
+1342,HR,54659.72,23,Kochi,Active,13
+1343,Sales,85333.7,31,Mumbai,Inactive,11
+1344,Engineering,74925.37,36,Mumbai,Inactive,25
+1345,Engineering,139340.27,36,Mumbai,Active,4
+1346,Engineering,53327.45,23,Kochi,On Leave,14
+1347,Support,48042.15,32,Chennai,Inactive,1
+1348,Sales,71348.99,58,Bangalore,Inactive,13
+1349,Marketing,44073.91,31,Delhi,Active,5
+1350,HR,48252.41,57,Chennai,On Leave,13
+1351,Sales,52008.85,39,Delhi,Inactive,5
+1352,Finance,27568.88,56,Kochi,Active,6
+1353,Marketing,31959.85,52,Chennai,Active,15
+1354,HR,113665.19,57,Bangalore,Inactive,7
+1355,HR,101231.29,36,Kochi,Active,9
+1356,HR,148232.55,46,Delhi,On Leave,17
+1357,Sales,65320.79,48,Mumbai,On Leave,29
+1358,Support,63090.92,32,Chennai,Active,22
+1359,Marketing,146628.15,44,Mumbai,On Leave,13
+1360,Finance,88033.73,49,Kochi,Active,21
+1361,HR,90116.95,36,Mumbai,Inactive,4
+1362,Finance,47436.31,34,Mumbai,Inactive,17
+1363,Marketing,142657.68,44,Kochi,On Leave,18
+1364,Sales,56943.54,41,,Inactive,22
+1365,Marketing,36582.7,55,Kochi,Active,20
+1366,Sales,59622.12,54,Delhi,On Leave,13
+1367,Sales,83561.34,22,Kochi,On Leave,14
+1368,Marketing,144397.38,29,Delhi,On Leave,29
+1369,HR,123854.24,43,Bangalore,Inactive,8
+1370,Support,,26,Chennai,Inactive,10
+1371,Marketing,144827.24,23,Kochi,Inactive,16
+1372,Finance,109821.48,40,Mumbai,Inactive,5
+1373,Marketing,,35,Kochi,Active,25
+1374,Engineering,,23,Chennai,Inactive,19
+1375,Sales,82158.35,32,Chennai,Inactive,2
+1376,,46011.99,36,Chennai,On Leave,6
+1377,Support,73487.48,28,Delhi,On Leave,29
+1378,HR,144062.07,58,Bangalore,On Leave,10
+1379,Marketing,73088.18,49,Bangalore,Active,16
+1380,Sales,60266.19,41,Bangalore,On Leave,13
+1381,Support,95458.26,22,Chennai,On Leave,16
+1382,Sales,,30,Mumbai,Inactive,1
+1383,HR,39330.43,54,Bangalore,On Leave,0
+1384,Marketing,40107.92,57,Delhi,On Leave,12
+1385,Marketing,148254.19,29,Chennai,Active,27
+1386,Marketing,122800.75,52,Mumbai,Active,6
+1387,Sales,43173.4,32,Delhi,Inactive,11
+1388,Finance,34004.42,25,Delhi,On Leave,18
+1389,Sales,25293.79,40,Chennai,On Leave,19
+1390,Finance,52275.64,27,Bangalore,Inactive,20
+1391,HR,108241.03,52,Kochi,Active,28
+1392,Marketing,126815.36,57,Bangalore,Active,20
+1393,Support,57002.6,52,Kochi,Active,3
+1394,Sales,120630.25,25,Delhi,Inactive,1
+1395,Engineering,100630.88,24,Mumbai,On Leave,18
+1396,Support,57457.75,30,Kochi,Inactive,10
+1397,Engineering,,47,Bangalore,Inactive,5
+1398,HR,113201.32,27,,Inactive,28
+1399,Engineering,91389.13,38,Mumbai,Active,18
+1400,Finance,92021.24,54,Mumbai,Active,9
+1401,,69258.4,32,Bangalore,Inactive,15
+1402,Marketing,40233.65,29,Chennai,On Leave,6
+1403,Support,146210.14,54,Chennai,On Leave,21
+1404,Support,59678.39,40,Bangalore,On Leave,5
+1405,Support,106168.36,40,Bangalore,On Leave,5
+1406,Marketing,90049.58,30,Delhi,Inactive,4
+1407,Engineering,54709.73,26,Kochi,Active,6
+1408,Finance,53524.02,52,Kochi,Active,16
+1409,Engineering,80890.74,58,Kochi,Inactive,7
+1410,HR,79361.03,30,Bangalore,Active,30
+1411,Finance,141906.22,58,Mumbai,On Leave,29
+1412,Finance,72060.78,39,Bangalore,Inactive,13
+1413,Support,100553.69,41,Bangalore,Inactive,22
+1414,Marketing,132764.42,30,Kochi,Active,30
+1415,Sales,122992.22,36,Bangalore,Inactive,20
+1416,Engineering,78473.59,47,,On Leave,15
+1417,Support,64127.89,46,Delhi,Active,4
+1418,Engineering,89404.9,44,Mumbai,On Leave,2
+1419,Finance,48586.72,51,Delhi,On Leave,15
+1420,Support,132980.4,46,Delhi,Inactive,6
+1421,Marketing,100783.0,50,Chennai,Inactive,19
+1422,Engineering,82348.33,47,Delhi,On Leave,4
+1423,Engineering,148793.34,29,Kochi,On Leave,16
+1424,Support,75567.24,46,Mumbai,Inactive,6
+1425,HR,99002.24,48,Bangalore,Inactive,17
+1426,HR,144546.27,51,Kochi,Inactive,12
+1427,Sales,61809.85,32,Kochi,On Leave,22
+1428,Engineering,101964.72,35,Mumbai,On Leave,18
+1429,Engineering,,37,Mumbai,Inactive,27
+1430,Finance,26083.32,56,Kochi,Inactive,10
+1431,Sales,38713.78,27,Kochi,Active,12
+1432,Engineering,133486.27,54,Chennai,On Leave,25
+1433,Support,73186.42,51,Bangalore,Active,11
+1434,Finance,134228.04,46,Kochi,Active,25
+1435,Marketing,90101.36,50,,Active,20
+1436,Sales,43031.24,25,,Inactive,10
+1437,HR,35983.32,53,Mumbai,On Leave,14
+1438,HR,121350.08,55,Mumbai,On Leave,9
+1439,HR,,50,Bangalore,On Leave,17
+1440,Sales,104258.01,30,Kochi,On Leave,5
+1441,Support,132793.87,58,Bangalore,On Leave,9
+1442,Support,97479.43,28,Mumbai,Active,12
+1443,Sales,58064.68,36,Kochi,Active,14
+1444,Sales,135485.05,48,Kochi,On Leave,12
+1445,Marketing,,53,Delhi,Inactive,20
+1446,Finance,35298.19,47,Mumbai,Active,19
+1447,Support,79210.58,49,Delhi,Active,28
+1448,Engineering,116821.5,30,Chennai,Active,16
+1449,Marketing,139033.73,28,Bangalore,Active,21
+1450,Marketing,100808.71,58,Chennai,Active,30
+1451,Finance,74295.38,36,Bangalore,Active,29
+1452,HR,31500.73,31,Delhi,Active,8
+1453,Engineering,132724.08,23,Delhi,Inactive,29
+1454,Engineering,79217.05,37,Delhi,On Leave,29
+1455,Engineering,114687.18,37,Chennai,Active,21
+1456,Sales,116417.91,36,Kochi,Inactive,9
+1457,Engineering,26048.64,24,Delhi,On Leave,4
+1458,Finance,26432.1,45,Mumbai,Active,8
+1459,Engineering,138173.8,54,Bangalore,Inactive,17
+1460,Engineering,91806.71,52,Delhi,On Leave,14
+1461,Marketing,82872.93,38,,On Leave,7
+1462,HR,,37,Chennai,Active,4
+1463,Finance,,32,Chennai,Inactive,24
+1464,Finance,46342.9,39,Kochi,Inactive,2
+1465,Engineering,88145.08,55,Bangalore,Inactive,16
+1466,Support,52273.88,22,Chennai,Inactive,18
+1467,Marketing,35438.89,22,Kochi,Inactive,5
+1468,Finance,49032.89,35,Delhi,Inactive,7
+1469,Sales,110705.13,26,Delhi,Inactive,10
+1470,Sales,116668.87,42,Mumbai,Active,14
+1471,Finance,73965.25,31,Delhi,Active,23
+1472,Finance,108767.02,54,Bangalore,Active,0
+1473,Finance,59460.98,47,Delhi,On Leave,5
+1474,Finance,,24,Mumbai,Active,29
+1475,HR,73313.36,35,Delhi,Inactive,24
+1476,Marketing,80335.82,50,Mumbai,Inactive,11
+1477,Support,134903.77,23,Chennai,Active,12
+1478,HR,116235.05,39,Mumbai,Active,27
+1479,Support,131188.58,22,Kochi,Active,23
+1480,HR,131014.48,40,Chennai,On Leave,18
+1481,Engineering,73021.95,56,Bangalore,Active,21
+1482,Engineering,32442.14,57,Kochi,Inactive,8
+1483,HR,54931.98,33,Chennai,Active,22
+1484,Engineering,97710.31,39,Chennai,Active,7
+1485,Engineering,66117.13,23,Kochi,On Leave,8
+1486,Finance,117955.98,46,,Active,28
+1487,Sales,136627.64,48,Delhi,Inactive,1
+1488,Marketing,45502.19,38,Bangalore,On Leave,23
+1489,Support,131994.02,56,Kochi,On Leave,5
+1490,Marketing,29929.78,57,Kochi,Active,23
+1491,Finance,28726.63,47,Chennai,Active,15
+1492,Engineering,147679.6,57,,On Leave,29
+1493,Engineering,124030.55,22,Mumbai,Active,18
+1494,Engineering,32077.2,57,Delhi,Inactive,15
+1495,Marketing,67024.28,33,Mumbai,On Leave,4
+1496,Finance,128522.15,30,Delhi,Active,18
+1497,HR,125955.18,36,Mumbai,On Leave,11
+1498,HR,66630.07,50,Bangalore,On Leave,0
+1499,Engineering,31055.92,28,Mumbai,Active,21
+1500,Engineering,60209.15,56,Bangalore,Active,19
+75,Marketing,,26,Chennai,Inactive,27
+145,Sales,95890.15,41,Kochi,Inactive,17
+111,Engineering,146514.58,33,Delhi,Inactive,14
+79,Marketing,76858.33,40,Bangalore,On Leave,23
+69,Engineering,39812.86,57,Bangalore,Active,29
+163,HR,61807.42,43,Bangalore,Active,11
+72,HR,112917.13,36,Chennai,Inactive,0
+50,Marketing,,39,Mumbai,Inactive,1
+151,Support,105196.25,33,Bangalore,Active,9
+3,Finance,95681.71,36,Kochi,Active,18
+51,Engineering,48682.06,52,Chennai,Active,21
+120,HR,32908.88,28,Kochi,Active,20
+17,HR,94908.97,47,Chennai,Active,15
+71,Marketing,42717.58,55,Bangalore,Active,19
+57,,66916.6,27,Bangalore,On Leave,20
+53,HR,113340.68,30,Bangalore,Active,26
+167,HR,31745.56,44,Mumbai,Inactive,22
+2,Sales,88429.47,24,Chennai,Inactive,2
+128,HR,95678.41,24,Kochi,Active,12
+7,Sales,47470.84,37,Kochi,Inactive,16
+149,Sales,137937.93,24,Kochi,Active,12
+92,HR,93375.28,23,Bangalore,Active,0
+194,Finance,68143.78,22,Mumbai,Active,30
+162,Finance,29232.58,27,Bangalore,Inactive,3
+19,Sales,143618.59,23,Delhi,On Leave,12
+16,Support,144137.24,54,Mumbai,Inactive,28
+7,Sales,47470.84,37,Kochi,Inactive,16
+10,Marketing,82025.67,27,Chennai,On Leave,21
+53,HR,113340.68,30,Bangalore,Active,26
+96,Engineering,86970.59,33,Chennai,Inactive,29
